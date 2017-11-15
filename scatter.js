@@ -22,7 +22,7 @@ var layout = {
     range: [4.5, 25],
     title: 'QB - Adjusted Points Scored'
   },
-  title:'Week 11 QB Projections (hover over bubbles to find the QB + matchup info',
+  title:'Week 11 QB Projections (hover over bubbles to find the QB + matchup info)',
   hovermode: 'closest'
 };
 
